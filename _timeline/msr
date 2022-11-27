@@ -7,7 +7,7 @@ date: 2021-06-26 00:00:00 -0700
  margin-left:0%;
 float:left; 
 height:60px;
-width:100px;	
+width:120px;	
 } 
 .container2 {
 	width:100%;
