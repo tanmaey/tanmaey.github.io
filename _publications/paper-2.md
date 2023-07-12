@@ -1,19 +1,10 @@
 ---
-title: "Verified Telemetry: A General, Easy to use, Scalable and Robust
-Fault Detection SDK for IoT Sensors"
+title: "Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures"
 collection: publications
-permalink: /publications/Verified-Telemetry
-excerpt: 'We propose a general, easy-to-use, scalable, and
-robust fault detection SDK called Verified Telemetry (VT) SDK. VT
-SDK builds on the sensor fingerprinting approach and can work
-with a wide variety of sensors (both analog and digital) and IoT
-devices with very minimal changes. We propose improved sensor fingerprinting algorithms that are robust to signal variations,
-sensor circuitry, and real-world conditions. VT SDK is already implemented in 1000s of devices and we show its usage on several
-practical applications. [Read more](Verified-Telemetry)'
+permalink: /publications/JIT-checkpointing
+excerpt: 'Deep Learning training jobs process large amounts of training data using many GPU devices, often running for weeks or months. When hardware or software failures happen, these jobs need to restart, losing the memory state for the Deep Neural Network (DNN) model trained so far, unless checkpointing mechanisms are used to save training state periodically. However, for large models, periodic checkpointing incurs significant steady state overhead, and during recovery, a large number of GPUs need to redo work since the last checkpoint. This is especially problematic when failures are frequent for large DNN training jobs using many GPUs. [Read more](JIT-checkpointing)'
 date: 2022-10-05
-venue: 'Under Review in ACM/IEEE IoTDI, 2023 '
+venue: 'Under Review at SOSP, 2023 '
 ---
 <br>
-With the proliferation of IoT sensors, the reliance on sensor telemetry has never been greater. Today numerous applications from smart agriculture to smart buildings and cities, rely on IoT telemetry to provide insights and to take decisions. However, due to the characteristics of these IoT deployments (in the wild, in harsh conditions), sensors are prone to failures, leading to the generation of bad/dirty data. Hitherto, data-centric algorithms were used to determine the quality of the sensed data, which has several limitations and relies on additional contextual information or sensor redundancy. Recently, system-centric approaches based on sensor fingerprinting has shown to detect sensor faults reliably without any additional information. However, the sensor fingerprinting approach is validated only for specific sensors, is not robust to real-world conditions, and cannot scale to large-scale deployments. 
-
-To this end, we propose a general, easy-to-use, scalable, and robust fault detection SDK called Verified Telemetry (VT) SDK. VT SDK builds on the sensor fingerprinting approach and can work with a wide variety of sensors (both analog and digital) and IoT devices with very minimal changes. We propose improved sensor fingerprinting algorithms that are robust to signal variations, sensor circuitry, and real-world conditions. VT SDK is already implemented in 1000s of devices and we show its usage on several practical applications. Finally, VT SDK will be made open source to address sensor fault detection in IoT deployments.
+Deep Learning training jobs process large amounts of training data using many GPU devices, often running for weeks or months. When hardware or software failures happen, these jobs need to restart, losing the memory state for the Deep Neural Network (DNN) model trained so far, unless checkpointing mechanisms are used to save training state periodically. However, for large models, periodic checkpointing incurs significant steady state overhead, and during recovery, a large number of GPUs need to redo work since the last checkpoint. This is especially problematic when failures are frequent for large DNN training jobs using many GPUs. In this paper, we present a novel approach of just-in-time checkpointing when failures happen, which enables recovery from failures with just a single minibatch iteration of work replayed by all GPUs. This reduces the cost of error recovery from several minutes to a few seconds per GPU. We discuss how just-in-time checkpointing can be enabled in training code, as well as design of key mechanisms for transparent just-in-time checkpointing without user code change. We analyze the wasted GPU work of just-in-time checkpointing and show that it is less than periodic checkpointing. We present results from our implementation in modern AI cluster infrastructure.
