@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Fellow (pre-doctoral fellow) at Microsoft Research India. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
+Hi! I am a Research Fellow (pre-doctoral fellow) at Microsoft Research India, working with Dr. Ramachandran Ramjee and Dr. Akshay Nambi. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
 
 I am intrigued by how computer systems and intelligence are accelerating towards ubiquity by breaking the existing limits and find myself passionate about being a part of the workforce that drives this transformation.
 
