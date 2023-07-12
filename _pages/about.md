@@ -20,13 +20,14 @@ My interests
 My interests (or curiosities) were initially ignited by tiny amusements like controlling an RC car wirelessly, 
 watching robots avoid obstacles, or wondering the size of pendrive it would require to store all the videos of youtube! The desire to find answers to such curiosities and myself build something that amuses others led me to pursue the path of Science and Technology, and then a multi-disciplinary course spanning both EE and CSE at my undergraduate institution. My academic, industrial and research exposure shaped my interests and motivated me to pursue a research career in the areas of:
 
-* Wireless Communication
-* Computer Networking
+* Systems for ML
+* ML for Systems
+* Language and Vision AI
 * Distributed Systems
 * Embedded, Edge Computing
-* Applied AI
+* Computer Networks
 
-I also like exploring possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Cloud Computing.
+I also like exploring possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space.
 
 <!-- Getting started
 ======
