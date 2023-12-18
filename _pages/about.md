@@ -10,24 +10,22 @@ redirect_from:
 
 Hi! I am a Research Fellow (pre-doctoral fellow) at Microsoft Research India, working with Dr. Ramachandran Ramjee and Dr. Akshay Nambi. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
 
-I am intrigued by how computer systems and intelligence are accelerating towards ubiquity by breaking the existing limits and find myself passionate about being a part of the workforce that drives this transformation.
+I envision eliminating barriers in using ML systems, which can enable its ubiquitous interactions to solve real-world problems both in distributed and edge settings.
 
 
 > __*I am currently looking for PhD opportunities to pursue research in fields stated below*__
 
 My interests
 ======
-My interests (or curiosities) were initially ignited by tiny amusements like controlling an RC car wirelessly, 
-watching robots avoid obstacles, or wondering the size of pendrive it would require to store all the videos of youtube! The desire to find answers to such curiosities and myself build something that amuses others led me to pursue the path of Science and Technology, and then a multi-disciplinary course spanning both EE and CSE at my undergraduate institution. My academic, industrial and research exposure shaped my interests and motivated me to pursue a research career in the areas of:
+Collaborative interactions of Systems and Machine Learning can advance both fields beyond their independent evolution and enable unprecedented high-impact computing applications. For instance, optimized inference serving and quantization can enhance the usage experience of LLMs, while learning efficient computation parallelization strategies can increase hardware utilization, reducing cost per compute. Driven by the motivation to harness this potential, my research interests lie in:
 
 * Systems for ML
 * ML for Systems
-* Language and Vision AI
-* Distributed Systems
-* Embedded, Edge Computing
-* Computer Networks
+* Optimization for distributed/collaborative learning 
+* Novel algorithms/architectures for foundational models
+* Networks for distributed/collaborative learning
 
-I also like exploring possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space.
+I also find it interesting to explore possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space.
 
 <!-- Getting started
 ======
