@@ -3,7 +3,7 @@ title: "Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning T
 collection: publications
 permalink: /publications/JIT-checkpointing
 excerpt: 'Deep Learning training jobs process large amounts of training data using many GPU devices, often running for weeks or months. When hardware or software failures happen, these jobs need to restart, losing the memory state for the Deep Neural Network (DNN) model trained so far, unless checkpointing mechanisms are used to save training state periodically. However, for large models, periodic checkpointing incurs significant steady state overhead, and during recovery, a large number of GPUs need to redo work since the last checkpoint. This is especially problematic when failures are frequent for large DNN training jobs using many GPUs. [Read more](JIT-checkpointing)'
-date: 2022-10-05
+date: 
 venue: 'Under Review at EuroSys, 2024 '
 ---
 <br>
