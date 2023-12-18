@@ -17,15 +17,23 @@ I envision eliminating barriers in using ML systems, which can enable its ubiqui
 
 My interests
 ======
-Collaborative interactions of Systems and Machine Learning can advance both fields beyond their independent evolution and enable unprecedented high-impact computing applications. For instance, optimized inference serving and quantization can enhance the usage experience of LLMs, while learning efficient computation parallelization strategies can increase hardware utilization, reducing cost per compute. Driven by the motivation to harness this potential, my research interests lie in:
+Collaborative interactions of Systems and Machine Learning can advance both fields beyond their independent evolution and enable unprecedented high-impact computing applications. For instance, optimized inference serving and quantization can enhance the usage experience of LLMs, while learning efficient computation parallelization strategies can increase hardware utilization, reducing cost per compute. Driven by the motivation to harness this potential, my research interests broadly span:
 
 * Systems for ML
 * ML for Systems
+* Theoretically-grounded solutions for ML systems challenges
 * Optimization for distributed/collaborative learning 
 * Novel algorithms/architectures for foundational models
 * Networks for distributed/collaborative learning
 
 I also find it interesting to explore possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space.
+
+Latest News
+======
+
+*__15/12/2023__ : Attended NeurIPS 2023 in New Orleans and presented my work at TCCML workshop. 
+*__17/11/2023__ : Received travel grant from CCAI to attend NeurIPS 2023. 
+*__19/10/2023__ : Submitted my "Just in Time Checkpointing" work to EuroSys, 2023. 
 
 <!-- Getting started
 ======
