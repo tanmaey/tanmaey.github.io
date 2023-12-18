@@ -4,7 +4,7 @@ Large-Scale Water-Usage Insights in Buildings"
 collection: publications
 permalink: /publications/PressureML
 excerpt: 'Several studies have indicated that delivering insights and feedback on water usage has been effective in curbing water consumption, making it a pivotal component in achieving long-term sustainability objectives. Despite a significant proportion of water consumption originating from large residential and commercial buildings, there is a scarcity of cost-effective and easy-to-integrate solutions that provide water usage insights in such structures. Furthermore, existing methods for disaggregating water usage necessitate training data and rely on frequent data sampling to capture patterns, both of which pose challenges when scaling up and adapting to new environments. [Read more](PressureML)'
-date: 
+date: 2023
 venue: 'TCCML, NeurIPS 2023 and BALANCES, BuildSys, 2023'
 ---
 <br>
