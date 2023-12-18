@@ -10,7 +10,7 @@ with a wide variety of sensors (both analog and digital) and IoT
 devices with very minimal changes. We propose improved sensor fingerprinting algorithms that are robust to signal variations,
 sensor circuitry, and real-world conditions. VT SDK is already implemented in 1000s of devices and we show its usage on several
 practical applications. [Read more](Verified-Telemetry)'
-date: 
+date: 2023
 venue: 'ACM/IEEE IoTDI, 2023 '
 ---
 <br>
