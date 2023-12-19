@@ -32,7 +32,8 @@ Latest News
 ======
 * __15/12/2023__ : Attended NeurIPS 2023 in New Orleans and presented my work at TCCML workshop. 
 * __17/11/2023__ : Received travel grant from CCAI to attend NeurIPS 2023. 
-* __19/10/2023__ : Submitted my "Just in Time Checkpointing" work to EuroSys, 2023. 
+* __19/10/2023__ : Submitted my "Just in Time Checkpointing" work to EuroSys, 2023.
+* __01/08/2023__ : Joined the FlexFlow project (a distributed DNN training accelerator framework by researchers at Stanford and CMU).
 
 <!-- Getting started
 ======
