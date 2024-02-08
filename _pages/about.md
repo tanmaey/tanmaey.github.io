@@ -26,7 +26,7 @@ Collaborative interactions of Systems and Machine Learning can advance both fiel
 * Novel algorithms/architectures for foundational models
 * Networks for distributed/collaborative learning
 
-I also find it interesting to explore possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space.
+<!-- I also find it interesting to explore possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space. -->
 
 Latest News
 ======
