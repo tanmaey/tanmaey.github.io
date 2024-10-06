@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Pre-doctoral Research Fellow at Microsoft Research India, working with Dr. Ramachandran Ramjee and Dr. Akshay Nambi. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
-
-I envision eliminating barriers in using ML systems, which can enable its ubiquitous interactions to solve real-world problems both in distributed and edge settings.
+Hi! I am a Ph.D. student at Cornell University, working at the intersection of Systems and ML. I am interested in optimizing across the stack for efficient large-scale and on-device ML. Prior to being a graduate student, I was a Pre-doctoral Research Fellow at Microsoft Research India, working with Dr. Ramachandran Ramjee and Dr. Akshay Nambi. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
 
 
-> __*I am currently looking for PhD opportunities to pursue research in fields stated below*__
-
-My interests
+<!-- My interests
 ======
 Collaborative interactions of Systems and Machine Learning can advance both fields beyond their independent evolution and enable unprecedented high-impact computing applications. For instance, optimized inference serving and quantization can enhance the usage experience of LLMs, while learning efficient computation parallelization strategies can increase hardware utilization, reducing cost per compute. Driven by the motivation to harness this potential, my research interests broadly span:
 
@@ -24,12 +20,13 @@ Collaborative interactions of Systems and Machine Learning can advance both fiel
 * Theoretically-grounded solutions for ML systems challenges
 * Optimization for distributed/collaborative learning 
 * Novel algorithms/architectures for foundational models
-* Networks for distributed/collaborative learning
+* Networks for distributed/collaborative learning -->
 
 <!-- I also find it interesting to explore possibilities hidden in the use of multi-disciplinary tech to solve challenging problems in impact areas like IoT, Sustainability, Society and Space. -->
 
 Latest News
 ======
+* __26/08/2024__ : Started Ph.D. at Cornell University! 
 * __07/02/2024__ : "Just in Time Checkpointing" has been accepted at EuroSys'24! 
 * __15/12/2023__ : Attended NeurIPS 2023 in New Orleans and presented my work at TCCML workshop. 
 * __17/11/2023__ : Received travel grant from CCAI to attend NeurIPS 2023. 
