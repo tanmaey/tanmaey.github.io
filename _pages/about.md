@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. student at Cornell University, working at the intersection of Systems and ML. I am interested in optimizing across the stack for efficient large-scale and on-device ML. Prior to being a graduate student, I was a Pre-doctoral Research Fellow at Microsoft Research India, working with Dr. Ramachandran Ramjee and Dr. Akshay Nambi. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
+Hi! I am a Ph.D. student at Cornell University, advised by Prof. Chris De Sa and Prof. Udit Gupta. I work at the intersection of Systems and ML to optimize across the stack for efficient large-scale and on-device learning. Prior to being a graduate student, I was a Pre-doctoral Research Fellow at Microsoft Research India, working with Dr. Ramachandran Ramjee and Dr. Akshay Nambi. I graduated in 2021 from IIT Gandhinagar with a Major in Electrical Engineering and a Minor in Computer Science and Engineering. 
 
 
 <!-- My interests
